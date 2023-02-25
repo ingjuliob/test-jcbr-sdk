@@ -7,3 +7,5 @@ Node.JS client for Crossing Minds B2B API
 ```shell
 npm install xminds-nodejs --save
 ```
+
+asasaaas
