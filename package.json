@@ -1,5 +1,5 @@
 {
-  "name": "xminds-sdk-nodejs",
+  "name": "test-jcbr-sdk",
   "version": "100.0.1",
   "description": "Node JS client for Crossing Minds B2B API",
   "main": "lib/ApiClient.js",
